@@ -121,11 +121,33 @@
 
     //8. Leia 5 números e calcule a média
     function calcularMedia($primeiro, $segundo, $terceiro, $quarto, $quinto){
-        $media = ($primeiro+$segundo+$terceiro+$quarto+$quinto)/5;
+        $media = ((int)$primeiro+(int)$segundo+(int)$terceiro+(int)$quarto+(int)$quinto)/5;
         return "A média é: $media";
     }
 
     //9. Leia números até que a soma ultrapasse 100.
 
-    //
+    //10. Solicite senhas até que uma válida seja informada.
+
+    //11. Classifique uma pessoa com base na idade: criança, jovem, adulto, idoso.
+    function classificarIdade($idade){
+        if($idade <12){
+            return "Criança";
+        }else if($idade >=12 && $idade <18){
+            return "Jovem";
+        }else if($idade >=18 && $idade <60){
+            return "Adulto";
+        }else{
+            return "Idoso";
+        }
+    }
+    
+    //12. Verifique se um número par ou ímpar
+    function imparPar($numero){
+        if($numero % 2==0){
+            return "O número é par";
+        }else{
+            return "O número é ímpar";
+        }
+    }
 ?>

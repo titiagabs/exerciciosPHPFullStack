@@ -15,37 +15,37 @@
     <button><a href="exercicio06.php">Exercicio 06</a></button>
     <button><a href="exercicio07.php">Exercicio 07</a></button>
     <button><a href="exercicio08.php">Exercicio 08</a></button>
-    <button>Exercicio 09</button>
-    <button>Exercicio 10</button><br>
-    <button>Exercicio 11</button>
-    <button>Exercicio 12</button>
-    <button>Exercicio 13</button>
-    <button>Exercicio 14</button>
-    <button>Exercicio 15</button>
-    <button>Exercicio 16</button>
-    <button>Exercicio 17</button>
-    <button>Exercicio 18</button>
-    <button>Exercicio 19</button>
-    <button>Exercicio 20</button><br>
-    <button>Exercicio 21</button>
-    <button>Exercicio 22</button>
-    <button>Exercicio 23</button>
-    <button>Exercicio 24</button>
-    <button>Exercicio 25</button>
-    <button>Exercicio 26</button>
-    <button>Exercicio 27</button>
-    <button>Exercicio 28</button>
-    <button>Exercicio 29</button>
-    <button>Exercicio 30</button><br>
-    <button>Exercicio 31</button>
-    <button>Exercicio 32</button>
-    <button>Exercicio 33</button>
-    <button>Exercicio 34</button>
-    <button>Exercicio 35</button>
-    <button>Exercicio 36</button>
-    <button>Exercicio 37</button>
-    <button>Exercicio 38</button>
-    <button>Exercicio 39</button>
-    <button>Exercicio 40</button>
+    <button><a href="exercicio09.php">Exercicio 09</a></button>
+    <button><a href="exercicio10.php">Exercicio 10</a></button><br>
+    <button><a href="exercicio11.php">Exercicio 11</a></button>
+    <button><a href="exercicio12.php">Exercicio 12</a></button>
+    <button><a href="exercicio13.php">Exercicio 13</a></button>
+    <button><a href="exercicio01.php">Exercicio 14</a></button>
+    <button><a href="exercicio01.php">Exercicio 15</a></button>
+    <button><a href="exercicio01.php">Exercicio 16</a></button>
+    <button><a href="exercicio01.php">Exercicio 17</a></button>
+    <button><a href="exercicio01.php">Exercicio 18</a></button>
+    <button><a href="exercicio01.php">Exercicio 19</a></button>
+    <button><a href="exercicio01.php">Exercicio 20</a></button><br>
+    <button><a href="exercicio01.php">Exercicio 21</a></button>
+    <button><a href="exercicio01.php">Exercicio 22</a></button>
+    <button><a href="exercicio01.php">Exercicio 23</a></button>
+    <button><a href="exercicio01.php">Exercicio 24</a></button>
+    <button><a href="exercicio01.php">Exercicio 25</a></button>
+    <button><a href="exercicio01.php">Exercicio 26</a></button>
+    <button><a href="exercicio01.php">Exercicio 27</a></button>
+    <button><a href="exercicio01.php">Exercicio 28</a></button>
+    <button><a href="exercicio01.php">Exercicio 29</a></button>
+    <button><a href="exercicio01.php">Exercicio 30</a></button><br>
+    <button><a href="exercicio01.php">Exercicio 31</a></button>
+    <button><a href="exercicio01.php">Exercicio 32</a></button>
+    <button><a href="exercicio01.php">Exercicio 33</a></button>
+    <button><a href="exercicio01.php">Exercicio 34</a></button>
+    <button><a href="exercicio01.php">Exercicio 35</a></button>
+    <button><a href="exercicio01.php">Exercicio 36</a></button>
+    <button><a href="exercicio01.php">Exercicio 37</a></button>
+    <button><a href="exercicio01.php">Exercicio 38</a></button>
+    <button><a href="exercicio01.php">Exercicio 39</a></button>
+    <button><a href="exercicio01.php">Exercicio 40</a></button>
 </body>
 </html>
