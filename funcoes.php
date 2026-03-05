@@ -126,8 +126,28 @@
     }
 
     //9. Leia números até que a soma ultrapasse 100.
+    function leiaNumeros($num1, $num2, $num3, $num4, $num5){
+        $soma = ((int)$num1+(int)$num2+(int)$num3+(int)$num4+(int)$num5);
+        if( $soma <= 100){
+            return "A soma é $soma";
+        }else{
+            return "A soma ultrapassa 100!";
+        }
+    }
+       
+
 
     //10. Solicite senhas até que uma válida seja informada.
+    function senhaValida($senhaValida){
+        $senha = 2003;
+        if($senha == $senhaValida){
+            return "Acesso Liberado";
+        }else{
+            return "Acesso Negado!";
+        }
+    }
+
+
 
     //11. Classifique uma pessoa com base na idade: criança, jovem, adulto, idoso.
     function classificarIdade($idade){
@@ -150,4 +170,25 @@
             return "O número é ímpar";
         }
     }
+
+    // 13. Leia dois números e exiba o maior entre eles.
+    function doisNum($num1,$num2){
+        if($num1 > $num2){
+            return "$num1 é maior que $num2";
+        }else{
+            return "$num2 é maior que $num1";
+        }
+    }
+
+
+    // 14. Crie uma matriz identidade 4x4
+
+    //15. Imprima os números de 1 a 100 com para.
+    function imprimaNum($num){
+        for($i=0;$i=99; $i++){
+            return $i;
+        }
+    }
 ?>
+
+
