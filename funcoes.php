@@ -183,10 +183,28 @@
 
     // 14. Crie uma matriz identidade 4x4
 
-    //15. Imprima os números de 1 a 100 com para.
+    // 15. Imprima os números de 1 a 100 com para.
     function imprimaNum($num){
-        for($i=0;$i=99; $i++){
-            return $i;
+        for($i=1;$i<=100; $i++){
+            echo $i." ";
+        }
+    }
+
+    // 16. Leia 10 números inteiros e armazene em um vetor. Mostre os pares.
+    function numInteiro($num){
+        foreach($num as $valor){
+            if($valor % 2 == 0){
+                echo $valor."<br>";
+            }
+        }
+    }
+
+    // 17. Verifique se um número é múltiplo de 3 e de 5 ao mesmo tempo.
+    function numMult($num){
+        if($num % 3 == 0 && $num % 5 == 0){
+            return "$num é múltiplo";
+        }else{
+            return "$num não é multiplo";
         }
     }
 ?>
